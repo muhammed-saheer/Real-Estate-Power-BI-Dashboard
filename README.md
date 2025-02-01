@@ -27,7 +27,7 @@ This project involves creating a Power BI dashboard to analyze real estate data.
 ## Images
 Here are some screenshots of the dashboard:
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview]([images/dashboard_overview.png](https://github.com/muhammed-saheer/Real-Estate-Power-BI-Dashboard/blob/main/images/1.png)
 ![Top Selling Property](images/top_selling_property.png)
 ![Location Analysis](images/location_analysis.png)
 
