@@ -1,0 +1,85 @@
+Unique Property ID,Name of Country,Type of BHK,Size of home,Price,Expense,Status,Sale Date,Client ID,Image
+1,United States,1,1500,1290901,923038,Sold,08-Feb-25,7,https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+2,Canada,3,1900,1157212,666766,Vacant,,,https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+3,Brazil,3,1100,845757,261457,Sold,21-Jun-27,2,https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+4,United Kingdom,3,1800,1294435,414618,Sold,16-Sep-25,1,https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+5,Germany,1,950,936624,692383,Sold,05-Jul-27,10,https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+6,France,5,1850,847335,244287,Sold,23-Sep-27,4,https://images.pexels.com/photos/1546166/pexels-photo-1546166.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+7,Italy,3,1750,1094315,1155017,Sold,07-Dec-27,7,https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+8,Spain,2,1100,958823,1078502,Vacant,,,https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+9,Russia,3,1300,841269,202473,Sold,17-Mar-26,9,https://images.pexels.com/photos/2501965/pexels-photo-2501965.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+10,China,1,1350,621008,776851,Sold,15-Apr-25,5,https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+11,Japan,2,950,954234,248212,Sold,20-Oct-27,8,https://images.pexels.com/photos/2079249/pexels-photo-2079249.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+12,South Korea,5,1000,720824,1072103,Sold,28-Nov-27,3,https://images.pexels.com/photos/2462015/pexels-photo-2462015.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+13,India,5,1600,887875,1040107,Sold,11-Jan-26,4,https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+14,Australia,3,950,904137,566346,Sold,21-Jun-27,2,https://images.pexels.com/photos/277559/pexels-photo-277559.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+15,New Zealand,3,1150,1376888,1103681,Sold,23-May-25,7,https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+16,South Africa,2,1950,746117,264962,Vacant,,,https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+17,Egypt,1,950,938987,292340,Sold,08-Jan-27,9,https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+18,Nigeria,2,950,1420365,945573,Sold,18-Nov-27,6,https://images.pexels.com/photos/262405/pexels-photo-262405.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+19,Mexico,1,1450,1056807,520432,Sold,21-Jun-26,8,https://images.pexels.com/photos/2121120/pexels-photo-2121120.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+20,Argentina,2,1050,671427,587829,Sold,28-Mar-26,3,https://images.pexels.com/photos/279607/pexels-photo-279607.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+21,Chile,4,1000,1260150,987693,Sold,30-Jun-25,8,https://images.pexels.com/photos/3330118/pexels-photo-3330118.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+22,Saudi Arabia,1,1700,1463451,434609,Sold,25-Aug-27,9,https://images.pexels.com/photos/388830/pexels-photo-388830.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+23,Turkey,5,1800,1112716,1177101,Sold,24-Dec-26,4,https://images.pexels.com/photos/2098913/pexels-photo-2098913.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+24,Indonesia,5,1500,885268,352104,Vacant,,,https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+25,Thailand,1,950,1273898,997655,Sold,20-Nov-27,3,https://images.pexels.com/photos/453201/pexels-photo-453201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+26,Vietnam,4,1550,702700,222348,Vacant,,,https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+27,Malaysia,5,1950,801799,1092950,Sold,04-Oct-26,4,https://images.pexels.com/photos/2439595/pexels-photo-2439595.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+28,Philippines,2,1850,1218570,565270,Sold,07-Apr-27,2,https://images.pexels.com/photos/2183521/pexels-photo-2183521.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+29,Sweden,3,1000,1339966,290544,Sold,13-Dec-27,4,https://images.pexels.com/photos/2360673/pexels-photo-2360673.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+30,Norway,3,1150,671714,987381,Sold,26-May-25,7,https://images.pexels.com/photos/2090653/pexels-photo-2090653.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+31,United States,2,1300,1179909,234163,Vacant,,,https://images.pexels.com/photos/2155202/pexels-photo-2155202.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+32,Canada,5,1850,855636,867969,Sold,06-Oct-27,10,https://images.pexels.com/photos/2371975/pexels-photo-2371975.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+33,Brazil,5,1400,1182160,1062860,Sold,27-Feb-27,6,https://images.pexels.com/photos/2183865/pexels-photo-2183865.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+34,United Kingdom,2,1450,787805,969626,Sold,07-Mar-26,3,https://images.pexels.com/photos/1170686/pexels-photo-1170686.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+35,Germany,4,1150,1114801,229187,Sold,28-May-27,9,https://images.pexels.com/photos/2194399/pexels-photo-2194399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+36,France,3,1750,1202592,772527,Sold,06-Jan-26,3,https://images.pexels.com/photos/2157404/pexels-photo-2157404.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+37,Italy,3,1150,817840,1052024,Sold,31-May-27,1,https://images.pexels.com/photos/1022936/pexels-photo-1022936.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+38,Spain,2,1100,1124110,499239,Sold,30-Oct-25,4,https://images.pexels.com/photos/323781/pexels-photo-323781.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+39,Russia,1,1800,838645,754456,Sold,04-Jul-25,3,https://images.pexels.com/photos/1127119/pexels-photo-1127119.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+40,China,5,1750,980178,1167633,Sold,09-Feb-27,6,https://images.pexels.com/photos/2326926/pexels-photo-2326926.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+41,Japan,4,1250,1384102,1167963,Sold,17-Jun-26,1,https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+42,South Korea,4,1900,995175,244516,Sold,11-Apr-26,4,https://images.pexels.com/photos/2351649/pexels-photo-2351649.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+43,India,3,1850,1375086,1194841,Vacant,,,https://images.pexels.com/photos/1358900/pexels-photo-1358900.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+44,Australia,5,1450,695918,617197,Sold,28-May-26,4,https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+45,New Zealand,3,1800,1328945,563379,Sold,06-Apr-25,1,https://images.pexels.com/photos/2090865/pexels-photo-2090865.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+46,South Africa,2,1050,1473955,889633,Vacant,,,https://images.pexels.com/photos/2510067/pexels-photo-2510067.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+47,Egypt,1,1300,1370150,236762,Sold,03-Jul-25,5,https://images.pexels.com/photos/534124/pexels-photo-534124.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+48,Nigeria,5,1050,1036066,1001684,Sold,31-Jul-25,4,https://images.pexels.com/photos/259646/pexels-photo-259646.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+49,Mexico,5,1200,747968,818315,Sold,27-Oct-26,6,https://images.pexels.com/photos/2599868/pexels-photo-2599868.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+50,Argentina,5,1850,630875,951667,Sold,07-Dec-25,2,https://images.pexels.com/photos/2468773/pexels-photo-2468773.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+51,Chile,5,1800,1173114,709374,Sold,24-Nov-25,1,https://images.pexels.com/photos/751546/pexels-photo-751546.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+52,Saudi Arabia,2,900,697701,934406,Sold,27-Jun-25,2,https://images.pexels.com/photos/250659/pexels-photo-250659.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+53,Turkey,2,1800,828602,478525,Sold,09-Aug-25,7,https://images.pexels.com/photos/65225/boat-house-cottage-waters-lake-65225.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+54,Indonesia,2,1100,1014565,581560,Sold,11-Sep-27,8,https://images.pexels.com/photos/987550/pexels-photo-987550.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+55,Thailand,2,1250,657238,722985,Vacant,,,https://images.pexels.com/photos/3825883/pexels-photo-3825883.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+56,Vietnam,5,950,744611,728739,Sold,12-Feb-27,4,https://images.pexels.com/photos/2566860/pexels-photo-2566860.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+57,Malaysia,1,1400,813432,532619,Sold,25-Jun-25,3,https://images.pexels.com/photos/2888492/pexels-photo-2888492.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+58,Philippines,5,1300,1147658,1080567,Vacant,,,https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+59,Sweden,1,1450,1186765,434699,Sold,06-Jan-27,10,https://images.pexels.com/photos/2679542/pexels-photo-2679542.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+60,Norway,3,1450,1217466,955452,Vacant,,,https://images.pexels.com/photos/259825/pexels-photo-259825.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+61,United States,3,1500,786697,806272,Sold,03-May-25,8,https://images.pexels.com/photos/265004/pexels-photo-265004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+62,Canada,4,1900,786356,702799,Sold,23-Aug-25,10,https://images.pexels.com/photos/2294125/pexels-photo-2294125.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+63,Brazil,4,1250,940146,803449,Sold,23-Apr-27,7,https://images.pexels.com/photos/164338/pexels-photo-164338.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+64,United Kingdom,3,1650,780984,1091520,Sold,24-May-27,10,https://images.pexels.com/photos/1123876/pexels-photo-1123876.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+65,Germany,4,1900,644096,1036507,Sold,08-Dec-25,6,https://images.pexels.com/photos/280239/pexels-photo-280239.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+66,France,4,1500,1490484,1116145,Sold,01-May-27,6,https://images.pexels.com/photos/269262/pexels-photo-269262.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+67,Italy,2,1550,710890,837048,Sold,12-May-26,2,https://images.pexels.com/photos/533157/pexels-photo-533157.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+68,Spain,3,1400,790801,746077,Sold,31-Mar-25,6,https://images.pexels.com/photos/1205700/pexels-photo-1205700.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+69,Russia,4,900,1408277,389086,Vacant,,,https://images.pexels.com/photos/2174992/pexels-photo-2174992.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+70,China,5,1350,1258233,741551,Sold,04-Nov-27,9,https://images.pexels.com/photos/36366/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500
+71,Japan,4,1900,1087402,1123809,Sold,06-Aug-25,2,https://images.pexels.com/photos/2079626/pexels-photo-2079626.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+72,South Korea,2,1050,1061450,1114417,Vacant,,,https://images.pexels.com/photos/3013120/pexels-photo-3013120.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+73,India,2,1050,1311733,1158430,Sold,01-Jun-26,1,https://images.pexels.com/photos/920025/pexels-photo-920025.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+74,Australia,5,1500,1342386,1062238,Sold,18-Nov-26,2,https://images.pexels.com/photos/279719/pexels-photo-279719.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+75,New Zealand,5,1650,848111,897857,Sold,17-Dec-25,1,https://images.pexels.com/photos/922796/pexels-photo-922796.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+76,South Africa,2,1250,1045875,1106838,Sold,10-Aug-27,1,https://images.pexels.com/photos/2265881/pexels-photo-2265881.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+77,Egypt,2,1300,1489696,741742,Sold,04-Apr-25,2,https://images.pexels.com/photos/2888489/pexels-photo-2888489.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+78,Nigeria,5,1700,1195789,1158714,Sold,24-May-25,7,https://images.pexels.com/photos/2104146/pexels-photo-2104146.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+79,Mexico,5,950,1042157,480320,Sold,18-Dec-25,8,https://images.pexels.com/photos/105829/pexels-photo-105829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+80,Argentina,5,1150,1378343,242127,Sold,08-Feb-26,4,https://images.pexels.com/photos/731812/pexels-photo-731812.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+81,Chile,2,1450,1164775,273739,Sold,25-Mar-25,2,https://images.pexels.com/photos/2078875/pexels-photo-2078875.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+82,Saudi Arabia,3,1750,810782,1074174,Sold,26-Dec-26,10,https://images.pexels.com/photos/93375/pexels-photo-93375.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+83,Turkey,4,1750,1037511,377299,Vacant,,,https://images.pexels.com/photos/2157401/pexels-photo-2157401.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+84,Indonesia,3,1750,644353,876204,Vacant,,,https://images.pexels.com/photos/276630/pexels-photo-276630.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
